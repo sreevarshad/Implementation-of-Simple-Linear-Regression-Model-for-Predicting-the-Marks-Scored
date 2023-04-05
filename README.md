@@ -8,10 +8,10 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Import the required packages.
+2.Display the values predicted using scatter plot and predict.
+3.Plot the graph according to the given input.
+4.End the program.
 
 ## Program:
 
@@ -78,39 +78,39 @@ print("RMSE = ",rmse)
 ## Output:
 df.head()
 
-![]()
+![](https://github.com/sreevarshad/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%2021.png)
 
 df.tail()
 
-![]()
+![](https://github.com/sreevarshad/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%2022.png)
 
 Array value of x
 
-![]()
+![](https://github.com/sreevarshad/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%2023.png)
 
 Array value of y
 
-![]()
+![](https://github.com/sreevarshad/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%2024.png)
 
 Values of y prediction
 
-![]()
+![](https://github.com/sreevarshad/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%20210.png)
 
 Array values of y test
 
-![]()
+![](https://github.com/sreevarshad/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%2026.png)
 
 Training set graph
 
-![]()
+![](https://github.com/sreevarshad/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%2027.png)
 
 Test set graph
 
-![]()
+![](https://github.com/sreevarshad/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exc%2028.png)
 
 Values of MSE,MAE and RMSE
 
-![]()
+![](https://github.com/sreevarshad/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%2029.png)
 
 
 ## Result:

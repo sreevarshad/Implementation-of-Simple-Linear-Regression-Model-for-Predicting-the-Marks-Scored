@@ -76,7 +76,41 @@ print("RMSE = ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+df.head()
+
+![]()
+
+df.tail()
+
+![]()
+
+Array value of x
+
+![]()
+
+Array value of y
+
+![]()
+
+Values of y prediction
+
+![]()
+
+Array values of y test
+
+![]()
+
+Training set graph
+
+![]()
+
+Test set graph
+
+![]()
+
+Values of MSE,MAE and RMSE
+
+![]()
 
 
 ## Result:

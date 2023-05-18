@@ -9,8 +9,11 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1.Import the required packages.
+
 2.Display the values predicted using scatter plot and predict.
+
 3.Plot the graph according to the given input.
+
 4.End the program.
 
 ## Program:
